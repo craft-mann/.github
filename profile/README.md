@@ -27,7 +27,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
 <table>
   <tr>
     <td width="96" align="center" valign="top">
-      <a href="https://www.craftmann.app/capturemann"><img src="./assets/capturemann-icon.png" width="72" height="72" alt="CaptureMann icon"></a>
+      <a href="https://www.craftmann.app/capturemann"><img src="./assets/capturemann.svg" width="72" height="72" alt="CaptureMann icon"></a>
     </td>
     <td valign="top">
       <h3><a href="https://www.craftmann.app/capturemann">CaptureMann</a></h3>
