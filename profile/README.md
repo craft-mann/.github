@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://www.craftmann.app">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-      <img alt="CraftMann — Well-made tools for people who make things." src="./assets/banner-dark.png" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/mark-on-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/mark-on-light.svg">
+      <img alt="CraftMann — Well-made tools for people who make things." src="./assets/mark-on-dark.svg" width="100%">
     </picture>
   </a>
 </p>
