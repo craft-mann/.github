@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/mark-on-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/mark-on-light.svg">
-      <img alt="CraftMann — Well-made tools for people who make things." src="./assets/mark-on-dark.svg" width="100%">
+      <img alt="CraftMann — Well-made tools for people who make things." src="./assets/mark-on-dark.svg" width="128px">
     </picture>
   </a>
 </p>
@@ -27,7 +27,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
 <table>
   <tr>
     <td width="96" align="center" valign="top">
-      <a href="https://www.craftmann.app/capturemann"><img src="./assets/capturemann.svg" width="72" height="72" alt="CaptureMann icon"></a>
+      <a href="https://www.craftmann.app/capturemann"><img src="./assets/capturemann-light.svg" width="72" height="72" alt="CaptureMann icon"></a>
     </td>
     <td valign="top">
       <h3><a href="https://www.craftmann.app/capturemann">CaptureMann</a></h3>
