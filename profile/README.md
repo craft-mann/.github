@@ -40,10 +40,10 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
       </p>
       <p>
-        <a href="https://github.com/trung-tlt/capturemann/releases/latest"><b>Download</b></a> ·
-        <a href="https://github.com/trung-tlt/capturemann">Source</a> ·
+        <a href="https://github.com/craft-mann/capturemann/releases/latest"><b>Download</b></a> ·
+        <a href="https://github.com/craft-mann/capturemann">Source</a> ·
         <a href="https://www.craftmann.app/capturemann">Website</a> ·
-        <a href="https://github.com/trung-tlt/capturemann/issues">Issues</a>
+        <a href="https://github.com/craft-mann/capturemann/issues">Issues</a>
       </p>
     </td>
   </tr>
@@ -51,7 +51,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
     <td width="96" align="center" valign="top">🔜</td>
     <td valign="top">
       <h3>Next app: on the workbench</h3>
-      <p>Have a tool you wish existed? <a href="https://github.com/trung-tlt/capturemann/issues">Tell us</a>. Watch this org or follow <a href="https://www.craftmann.app">craftmann.app</a> to hear when it ships.</p>
+      <p>Have a tool you wish existed? <a href="https://github.com/craft-mann/capturemann/issues">Tell us</a>. Watch this org or follow <a href="https://www.craftmann.app">craftmann.app</a> to hear when it ships.</p>
     </td>
   </tr>
 </table>
@@ -96,11 +96,11 @@ New here? Look for issues labelled `good first issue`.
 
 ## 🔒 Security
 
-Please **don't** report security vulnerabilities in public issues. Use GitHub's [private vulnerability reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability) on the affected repository (**Security → Report a vulnerability**), or email **[SECURITY EMAIL]**. We'll acknowledge your report and keep you updated while we fix it.
+Please **don't** report security vulnerabilities in public issues. Use GitHub's [private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately) on the affected repository (**Security → Report a vulnerability**), or email **[SECURITY EMAIL]**. We'll acknowledge your report and keep you updated while we fix it.
 
 ## 🎨 Brand
 
-The CraftMann mark is the **Tool Rack M**: three bars like tools hanging on a workshop rack. Each app has its own symbol and color on a shared dark icon tile. If you're writing about CraftMann or one of its apps, please use the official assets rather than recreating them: [brand kit](https://github.com/craftmann/.github/tree/main/profile/assets) · [craftmann.app](https://www.craftmann.app).
+The CraftMann mark is the **Tool Rack M**: three bars like tools hanging on a workshop rack. Each app has its own symbol and color on a shared dark icon tile. If you're writing about CraftMann or one of its apps, please use the official assets rather than recreating them: [brand kit](https://github.com/craft-mann/.github/tree/main/profile/assets) · [craftmann.app](https://www.craftmann.app).
 
 ## 📬 Stay in touch
 
