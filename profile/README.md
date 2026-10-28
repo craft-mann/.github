@@ -18,7 +18,7 @@
 
 ---
 
-**CraftMann** is an independent software studio that builds focused desktop apps for Windows and macOS. Each app does one job and does it properly. Each one is free and open source, keeps your files on your machine, and can be driven by you or by your AI agents through MCP and a CLI.
+**CraftMann** is an independent software studio that builds focused desktop apps, on macOS first, with Windows and Linux to follow. Each app does one job and does it properly. Each one is free and open source, keeps your files on your machine, and can be driven by you or by your AI agents through MCP and a CLI.
 
 We're starting with **CaptureMann**, and more tools are on the workbench.
 
@@ -32,10 +32,10 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
     <td valign="top">
       <h3><a href="https://www.craftmann.app/capturemann">CaptureMann</a></h3>
       <p><b>Capture anything. Ship it anywhere.</b><br>
-      Screenshots and screen recordings at your display's native resolution, with a webcam bubble. Save locally or to Google Drive, OneDrive or Dropbox, publish to YouTube, TikTok and Facebook, or let your AI agents do it all over MCP and CLI.</p>
+      Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that never leave your Mac. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 73 MCP tools and a matching CLI.</p>
       <p>
-        <img alt="Status" src="https://img.shields.io/badge/status-v0.1-3DD68C?style=flat-square&labelColor=161619">
-        <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows-EDEDEF?style=flat-square&labelColor=161619">
+        <img alt="Status" src="https://img.shields.io/badge/status-v0.2-3DD68C?style=flat-square&labelColor=161619">
+        <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%2013%2B%20(Apple%20Silicon%20%7C%20Intel)-EDEDEF?style=flat-square&labelColor=161619">
         <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-F0B43C?style=flat-square&labelColor=161619">
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
       </p>
@@ -45,6 +45,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <a href="https://www.craftmann.app/capturemann">Website</a> ·
         <a href="https://github.com/craft-mann/capturemann/issues">Issues</a>
       </p>
+      <p><sub>Current release: <b>0.2.2</b>, notarized for macOS 13+ (Apple Silicon and Intel; the Intel build is not yet tested on a real Intel Mac). Windows and Linux are planned. Next up: translation and speaker detection improvements.</sub></p>
     </td>
   </tr>
   <tr>
@@ -76,7 +77,8 @@ Example: connect CaptureMann to an MCP-compatible client.
 {
   "mcpServers": {
     "capturemann": {
-      "command": "capturemann-mcp"
+      "command": "/Applications/CaptureMann.app/Contents/MacOS/capturemann",
+      "args": ["mcp"]
     }
   }
 }
