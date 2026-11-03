@@ -109,7 +109,7 @@ The CraftMann mark is the **Tool Rack M**: three bars like tools hanging on a wo
 - 🌐 Website: [craftmann.app](https://www.craftmann.app)
 - 🐙 GitHub: watch the repos you care about for release notifications
 - 🤗 Hugging Face: [huggingface.co/craftmann](https://huggingface.co/craftmann), model files for CaptureMann's local AI
-- ✉️ Contact: **[CONTACT EMAIL / LINK]**
+- 💼 Contact: [LinkedIn, CraftMann](https://www.linkedin.com/company/craftmann)
 
 ---
 
