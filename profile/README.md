@@ -32,10 +32,10 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
     <td valign="top">
       <h3><a href="https://www.craftmann.app/capturemann">CaptureMann</a></h3>
       <p><b>Capture anything. Ship it anywhere.</b><br>
-      Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that never leave your Mac. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 73 MCP tools and a matching CLI.</p>
+      Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that never leave your Mac. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 74 MCP tools and a matching CLI.</p>
       <p>
-        <img alt="Status" src="https://img.shields.io/badge/status-v0.2-3DD68C?style=flat-square&labelColor=161619">
-        <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%2013%2B%20(Apple%20Silicon%20%7C%20Intel)-EDEDEF?style=flat-square&labelColor=161619">
+        <img alt="Status" src="https://img.shields.io/badge/status-v0.2.6-3DD68C?style=flat-square&labelColor=161619">
+        <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20and%20Linux%20(early)-EDEDEF?style=flat-square&labelColor=161619">
         <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-F0B43C?style=flat-square&labelColor=161619">
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
       </p>
@@ -45,7 +45,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <a href="https://www.craftmann.app/capturemann">Website</a> ·
         <a href="https://github.com/craft-mann/capturemann/issues">Issues</a>
       </p>
-      <p><sub>Current release: <b>0.2.2</b>, notarized for macOS 13+ (Apple Silicon and Intel; the Intel build is not yet tested on a real Intel Mac). Windows and Linux are planned. Next up: translation and speaker detection improvements.</sub></p>
+      <p><sub>Current release: <b>0.2.6</b>. macOS 13+ (Apple Silicon and Intel) is the full app, notarized; the Intel build is not yet tested on a real Intel Mac. <b>Windows 11 (x64) and Linux (Ubuntu 24.04+)</b> have early builds with screenshots, annotation, the library, local AI, the command line and the MCP server; recording is not available there yet and the Windows files are not signed. Next up: faster, better-measured transcripts, speaker labels and reports on macOS.</sub></p>
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ New here? Look for issues labelled `good first issue`.
 
 ## 🔒 Security
 
-Please **don't** report security vulnerabilities in public issues. Use GitHub's [private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately) on the affected repository (**Security → Report a vulnerability**), or email **[SECURITY EMAIL]**. We'll acknowledge your report and keep you updated while we fix it.
+Please **don't** report security vulnerabilities in public issues. Use GitHub's [private vulnerability reporting](https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/report-privately) on the affected repository (**Security → Report a vulnerability**). Ordinary bugs and hardening ideas that are safe to discuss in public go in a normal GitHub issue. We'll acknowledge your report and keep you updated while we fix it.
 
 ## 🎨 Brand
 
@@ -108,6 +108,7 @@ The CraftMann mark is the **Tool Rack M**: three bars like tools hanging on a wo
 
 - 🌐 Website: [craftmann.app](https://www.craftmann.app)
 - 🐙 GitHub: watch the repos you care about for release notifications
+- 🤗 Hugging Face: [huggingface.co/craftmann](https://huggingface.co/craftmann), model files for CaptureMann's local AI
 - ✉️ Contact: **[CONTACT EMAIL / LINK]**
 
 ---
