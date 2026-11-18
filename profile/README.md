@@ -46,7 +46,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <a href="https://www.craftmann.app/capturemann">Project Site</a> ·
         <a href="https://github.com/craft-mann/capturemann/issues">Issues</a>
       </p>
-      <p><sub>Current release: <b>0.3.5</b> (Nov 17, 2026). One app for <b>macOS 13+</b> (Apple Silicon and Intel; signed and notarized), <b>Windows 11</b> (x64; the files are not signed yet, so SmartScreen warns) and <b>Linux</b> (Ubuntu 24.04+, x86_64 and aarch64). New in 0.3.5: Long Shot (scrolling capture) and Click Guide (both Preview), Retype, Move area, Blueprint, Zoom Lens, boards and bulk export. Earlier releases added copy text from a screenshot, annotations, image import, a Claude plugin and local transcripts with speaker labels. It has been tested on a limited set of computers: the <a href="https://github.com/craft-mann/capturemann/releases/latest">release notes</a> say what has and has not been checked.</sub></p>
+      <p><sub>Current release: <b>0.3.5</b>. One app for <b>macOS 13+</b> (Apple Silicon and Intel; signed and notarized), <b>Windows 11</b> (x64; the files are not signed yet, so SmartScreen warns) and <b>Linux</b> (Ubuntu 24.04+, x86_64 and aarch64). New in 0.3.5: Long Shot (scrolling capture) and Click Guide (both Preview), Retype, Move area, Blueprint, Zoom Lens, boards and bulk export. Earlier releases added copy text from a screenshot, annotations, image import, a Claude plugin and local transcripts with speaker labels. It has been tested on a limited set of computers: the <a href="https://github.com/craft-mann/capturemann/releases/latest">release notes</a> say what has and has not been checked.</sub></p>
     </td>
   </tr>
   <tr>
