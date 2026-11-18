@@ -34,7 +34,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
       <p><b>Capture anything. Ship it anywhere.</b><br>
       Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that stay on your computer. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 89 MCP tools and a matching CLI.</p>
       <p>
-        <img alt="Status" src="https://img.shields.io/badge/status-v0.3.4-3DD68C?style=flat-square&labelColor=161619">
+        <img alt="Status" src="https://img.shields.io/badge/status-v0.3.5-3DD68C?style=flat-square&labelColor=161619">
         <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-EDEDEF?style=flat-square&labelColor=161619">
         <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-F0B43C?style=flat-square&labelColor=161619">
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
@@ -45,7 +45,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <a href="https://www.craftmann.app/capturemann">Website</a> ·
         <a href="https://github.com/craft-mann/capturemann/issues">Issues</a>
       </p>
-      <p><sub>Current release: <b>0.3.4</b> (Nov 17, 2026). One app for <b>macOS 13+</b> (Apple Silicon and Intel; signed and notarized), <b>Windows 11</b> (x64; the files are not signed yet, so SmartScreen warns) and <b>Linux</b> (Ubuntu 24.04+, x86_64 and aarch64). New in 0.3.4: Long Shot (scrolling capture) and Click Guide (both Preview), Retype, Move area, Blueprint, Zoom Lens, boards and bulk export. Earlier releases added copy text from a screenshot, annotations, image import, a Claude plugin and local transcripts with speaker labels. It has been tested on a limited set of computers: the <a href="https://github.com/craft-mann/capturemann/releases/latest">release notes</a> say what has and has not been checked.</sub></p>
+      <p><sub>Current release: <b>0.3.5</b> (Nov 17, 2026). One app for <b>macOS 13+</b> (Apple Silicon and Intel; signed and notarized), <b>Windows 11</b> (x64; the files are not signed yet, so SmartScreen warns) and <b>Linux</b> (Ubuntu 24.04+, x86_64 and aarch64). New in 0.3.5: Long Shot (scrolling capture) and Click Guide (both Preview), Retype, Move area, Blueprint, Zoom Lens, boards and bulk export. Earlier releases added copy text from a screenshot, annotations, image import, a Claude plugin and local transcripts with speaker labels. It has been tested on a limited set of computers: the <a href="https://github.com/craft-mann/capturemann/releases/latest">release notes</a> say what has and has not been checked.</sub></p>
     </td>
   </tr>
   <tr>
