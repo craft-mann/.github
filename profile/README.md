@@ -40,9 +40,10 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
       </p>
       <p>
-        <a href="https://github.com/craft-mann/capturemann/releases/latest"><b>Download</b></a> ·
+        <a href="https://www.craftmann.app/capturemann/download"><b>Download</b></a> ·
+        <a href="https://github.com/craft-mann/capturemann/releases/latest"><b>Releases</b></a> ·
         <a href="https://github.com/craft-mann/capturemann">Source</a> ·
-        <a href="https://www.craftmann.app/capturemann">Website</a> ·
+        <a href="https://www.craftmann.app/capturemann">Project Site</a> ·
         <a href="https://github.com/craft-mann/capturemann/issues">Issues</a>
       </p>
       <p><sub>Current release: <b>0.3.5</b> (Nov 17, 2026). One app for <b>macOS 13+</b> (Apple Silicon and Intel; signed and notarized), <b>Windows 11</b> (x64; the files are not signed yet, so SmartScreen warns) and <b>Linux</b> (Ubuntu 24.04+, x86_64 and aarch64). New in 0.3.5: Long Shot (scrolling capture) and Click Guide (both Preview), Retype, Move area, Blueprint, Zoom Lens, boards and bulk export. Earlier releases added copy text from a screenshot, annotations, image import, a Claude plugin and local transcripts with speaker labels. It has been tested on a limited set of computers: the <a href="https://github.com/craft-mann/capturemann/releases/latest">release notes</a> say what has and has not been checked.</sub></p>
