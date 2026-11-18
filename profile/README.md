@@ -38,6 +38,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
         <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-EDEDEF?style=flat-square&labelColor=161619">
         <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-F0B43C?style=flat-square&labelColor=161619">
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
+        <img alt="CLI" src="https://img.shields.io/badge/CLI-ready-5B8CFF?style=flat-square&labelColor=161619">
       </p>
       <p>
         <a href="https://www.craftmann.app/capturemann/download"><b>Download</b></a> ·
