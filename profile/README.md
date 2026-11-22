@@ -34,7 +34,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
       <p><b>Capture anything. Ship it anywhere.</b><br>
       Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that stay on your computer. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 89 MCP tools and a matching CLI.</p>
       <p>
-        <img alt="Status" src="https://img.shields.io/badge/status-v0.3.5-3DD68C?style=flat-square&labelColor=161619">
+        <img alt="Status" src="https://img.shields.io/badge/status-v0.3.6-3DD68C?style=flat-square&labelColor=161619">
         <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-EDEDEF?style=flat-square&labelColor=161619">
         <img alt="License" src="https://img.shields.io/badge/license-Apache--2.0-F0B43C?style=flat-square&labelColor=161619">
         <img alt="MCP" src="https://img.shields.io/badge/MCP-ready-5B8CFF?style=flat-square&labelColor=161619">
