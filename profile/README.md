@@ -59,11 +59,6 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
   </tr>
 </table>
 
-<p align="center">
-  <img alt="The CaptureMann library on Windows: Quick Capture and Record buttons, six capture modes and the captures list (sample recordings)" src="https://raw.githubusercontent.com/craft-mann/capturemann/main/docs/images/windows/windows-library-0.3.7.webp" width="440">
-  <img alt="The CaptureMann recording editor on Windows: preview, speed panel and the Screen, Webcam and Mic tracks (sample recording)" src="https://raw.githubusercontent.com/craft-mann/capturemann/main/docs/images/windows/windows-editor-0.3.7.webp" width="440">
-</p>
-
 ## 🪵 How we build
 
 | | Principle | What it means |
