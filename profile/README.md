@@ -32,7 +32,7 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
     <td valign="top">
       <h3><a href="https://www.craftmann.app/capturemann">CaptureMann</a></h3>
       <p><b>Capture anything. Ship it anywhere.</b><br>
-      Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that stay on your computer. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 89 MCP tools and a matching CLI.</p>
+      Screenshots, screen recordings and audio recordings at your display's native resolution, with a webcam bubble, an editor, and local AI for transcripts, captions, speaker labels and meeting minutes that stay on your computer. Save to a local folder or Google Drive, publish to YouTube, or let your AI agents do it all over 90 MCP tools and a matching CLI.</p>
       <p>
         <img alt="Status" src="https://img.shields.io/badge/status-v0.3.7-3DD68C?style=flat-square&labelColor=161619">
         <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%7C%20Windows%20%7C%20Linux-EDEDEF?style=flat-square&labelColor=161619">
@@ -58,6 +58,11 @@ We're starting with **CaptureMann**, and more tools are on the workbench.
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img alt="The CaptureMann library on Windows: Quick Capture and Record buttons, six capture modes and the captures list (sample recordings)" src="https://raw.githubusercontent.com/craft-mann/capturemann/main/docs/images/windows/windows-library-0.3.7.webp" width="440">
+  <img alt="The CaptureMann recording editor on Windows: preview, speed panel and the Screen, Webcam and Mic tracks (sample recording)" src="https://raw.githubusercontent.com/craft-mann/capturemann/main/docs/images/windows/windows-editor-0.3.7.webp" width="440">
+</p>
 
 ## 🪵 How we build
 
